@@ -1,0 +1,3 @@
+[ 2026-04-22 00:13:50,952 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-04-22 00:13:50,954 ] 97 werkzeug - INFO -  * Debugger PIN: 500-402-982
+[ 2026-04-22 00:15:07,407 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\asus\\Desktop\\New_project_youtube\\ml_pipeline_project\\src\\components\\data_ingestion.py', reloading
